@@ -39,6 +39,7 @@ Features Of The Library Management System
 12. can add new book
 13. can delete a book
 14 can update book info
+
 -Clerk
 
   -can search book by title
@@ -52,6 +53,7 @@ Features Of The Library Management System
   -can record fine of borrower
   -can increase quantity of book
   -can decrease quantity of book
+
 -Borrower
 
   -can search book by title
