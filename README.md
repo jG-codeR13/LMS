@@ -1,5 +1,10 @@
 # LMS
-Library Management System has four main modules. Insertion to Database Module – User friendly input screen. Extracting from Database module – Attractive Output Screen. Report Generation module – borrowed book list & Available book list. Search Facility system – search for books and members.
+Library Management System has four main modules. 
+
+– User friendly input screen. Extracting from Database module 
+– Attractive Output Screen. 
+– borrowed book list & Available book list. 
+– search for books and members.
 
 Features Of The Library Management System
 
@@ -12,45 +17,45 @@ Features Of The Library Management System
 
 #System Users/Actors
 
-Librarian
-Clerk
-Borrower
+1. Librarian
+2. Clerk
+3. Borrower
 
 #Functionalities
 
 -Librarian
 
-can search book by title
-can search book by subject
-can search book by author name
-can view loan history of borrowers
-can add borrower
-can update personal information of borrower
-can checkout an item
-can checkin an item
-can record fine of borrower
-can increase quantity of book
-can decrease quantity of book
-can add new book
-can delete a book
-can update book info
+1. can search book by title
+2. can search book by subject
+3. can search book by author name
+4. can view loan history of borrowers
+5. can add borrower
+6. can update personal information of borrower
+7. can checkout an item
+8. can checkin an item
+9. can record fine of borrower
+10. can increase quantity of book
+11. can decrease quantity of book
+12. can add new book
+13. can delete a book
+14 can update book info
 -Clerk
 
-can search book by title
-can search book by subject
-can search book by author name
-can view loan history of borrowers
-can add borrower
-can update personal information of borrower
-can checkout an item
-can checkin an item
-can record fine of borrower
-can increase quantity of book
-can decrease quantity of book
+  -can search book by title
+  -can search book by subject
+  -can search book by author name
+  -can view loan history of borrowers
+  -can add borrower
+  -can update personal information of borrower
+  -can checkout an item
+  -can checkin an item
+  -can record fine of borrower
+  -can increase quantity of book
+  -can decrease quantity of book
 -Borrower
 
-can search book by title
-can search book by subject
-can search book by author name
-can view loan history of borrowers
-request a loan
+  -can search book by title
+  -can search book by subject
+  -can search book by author name
+  -can view loan history of borrowers
+  -request a loan
